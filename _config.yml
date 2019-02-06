@@ -18,8 +18,8 @@ email: brntsllvn@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   We're building the platform for donors and nonprofits that
   brings share donation into the modern era.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://donatestock.info/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: brntsllvn
 github_username: brntsllvn
 
