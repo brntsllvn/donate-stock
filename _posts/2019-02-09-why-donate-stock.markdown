@@ -2,6 +2,8 @@
 layout: post
 title:  "Why Donate Stock?"
 date:   2019-02-08
+author: Brent Sullivan
+author-page: brent-sullivan
 ---
 
 When donating stock, you avoid paying tax.
@@ -23,4 +25,5 @@ Notes and assumptions
 + The [Capital Gain Tax Rate](https://www.irs.gov/taxtopics/tc409) is 20% plus 3.8% Medicare [Net Investment Income Tax](https://www.irs.gov/newsroom/questions-and-answers-on-the-net-investment-income-tax).
 + No state or local taxes factored in.
 + The donor has not bumped into the [AGI deduction limits](https://www.irs.gov/charities-non-profits/charitable-organizations/charitable-contribution-deductions).
++ Morgan Stanley Stock Plan trade fee is $14.95 (which is one of the worst I've ever seen...)
 + Calculations are mine. Send corrections to <brent@donatestock.io>.
