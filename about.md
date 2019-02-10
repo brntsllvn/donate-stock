@@ -13,4 +13,4 @@ I worked in investment management at PIMCO, SNWAM, and Parametric for seven year
 
 Every year my wife and I donate stock. The benefits are numerous, but the process is tedious. In 2017, I built a widget to automate donating stock and now I'm making it a product others can use.
 
-Interested in collaborating, investing, or just having a chat? Send me an email: <brent@donatestock.io>
+Interested in collaborating or just having a chat? Send me an email: <brent@donatestock.io>. I read and respond to every message.
