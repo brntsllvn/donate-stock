@@ -14,10 +14,7 @@ Donating stock directly (under the right circumstances) results in a bigger dona
 
 Below is a comparison of donating stock versus selling stock, then donating the cash proceeds.
 
-<div style="text-align: center;
-            position: relative;">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT-TCm2-jf_szLf1ktBicsS7lv5_KS23_c8iiyzijC31Sb238-tj_ScGzIXWoPGdtnLJqIOZR3MJUpl/embed?start=true&loop=true&delayms=2000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</div>
+{% include slides.html id="https://docs.google.com/presentation/d/e/2PACX-1vT-TCm2-jf_szLf1ktBicsS7lv5_KS23_c8iiyzijC31Sb238-tj_ScGzIXWoPGdtnLJqIOZR3MJUpl/embed?start=true&loop=true&delayms=2000" %}
 
 Notes and assumptions
 + The donor [itemizes](https://www.irs.gov/taxtopics/tc501) her taxes.
