@@ -20,8 +20,6 @@ Notes and assumptions
 + The donor [itemizes](https://www.irs.gov/taxtopics/tc501) her taxes.
 + The [Capital Gain Tax Rate](https://www.irs.gov/taxtopics/tc409) is 20% plus 3.8% Medicare [Net Investment Income Tax](https://www.irs.gov/newsroom/questions-and-answers-on-the-net-investment-income-tax).
 + No state or local taxes factored in.
-+ The credit card fee is 3% (some fundraisers charge 5%...c'mon!).
-+ My hypothetical fee of 2%.
 + The donor has not bumped into the [AGI deduction limits](https://www.irs.gov/charities-non-profits/charitable-organizations/charitable-contribution-deductions).
 + Morgan Stanley Stock Plan trade fee is $14.95 (which is one of the worst I've ever seen...).
 + Calculations are mine. Send corrections, thoughts, etc. to <brent@donatestock.io>.
