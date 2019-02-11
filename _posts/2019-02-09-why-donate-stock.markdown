@@ -14,16 +14,17 @@ Donating stock directly (under the right circumstances) results in a bigger dona
 
 Below is a comparison of donating stock versus selling stock, then donating the cash proceeds.
 
-<img src="/img/why-donate-stock/sell-then-donate.png" alt="An illustration of selling stock then donating the proceeds after paying tax. I highlight in red the tax that must be paid to the federal government.">
-
-<img src="/img/why-donate-stock/donate-directly.png" alt="An illustration of donating stock directly.">
-
-<img src="/img/why-donate-stock/comparison.png" alt="I summarize the two methods of donating - selling stock then donating the proceeds versus donating the stock directly - succinctly with a thumbs up next to donating stock.">
+<div style="text-align: center;
+            position: relative;">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT-TCm2-jf_szLf1ktBicsS7lv5_KS23_c8iiyzijC31Sb238-tj_ScGzIXWoPGdtnLJqIOZR3MJUpl/embed?start=true&loop=true&delayms=2000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
 
 Notes and assumptions
 + The donor [itemizes](https://www.irs.gov/taxtopics/tc501) her taxes.
 + The [Capital Gain Tax Rate](https://www.irs.gov/taxtopics/tc409) is 20% plus 3.8% Medicare [Net Investment Income Tax](https://www.irs.gov/newsroom/questions-and-answers-on-the-net-investment-income-tax).
 + No state or local taxes factored in.
++ The credit card fee is 3% (some fundraisers charge 5%...c'mon!).
++ My hypothetical fee of 2%.
 + The donor has not bumped into the [AGI deduction limits](https://www.irs.gov/charities-non-profits/charitable-organizations/charitable-contribution-deductions).
-+ Morgan Stanley Stock Plan trade fee is $14.95 (which is one of the worst I've ever seen...)
-+ Calculations are mine. Send corrections to <brent@donatestock.io>.
++ Morgan Stanley Stock Plan trade fee is $14.95 (which is one of the worst I've ever seen...).
++ Calculations are mine. Send corrections, thoughts, etc. to <brent@donatestock.io>.
