@@ -4,9 +4,10 @@ title:  "Why Donate Stock?"
 date:   2019-02-08
 author: Brent Sullivan
 author-page: brent-sullivan
+read-time: 2
 ---
 
-When donating stock, you avoid paying tax.
+When donating stock, you avoid paying capital gains tax.
 
 Money you would normally pay to the federal government - tax on capital gains - goes directly to your choice nonprofit.
 

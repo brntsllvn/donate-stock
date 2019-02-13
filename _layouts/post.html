@@ -16,6 +16,11 @@ layout: default
               <a href="/authors/{{ page.author-page }}">{{ page.author }}</a>
             </span>
           </span>
+        • <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <span class="p-author h-card" itemprop="name">
+              {{ page.read-time }} min read
+            </span>
+          </span>
       {%- endif -%}
     </p>
   </header>
