@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why donate stock? No tax."
+title:  "Why donate stock?"
 date:   2019-02-08
 author: Brent Sullivan
 author-page: brent-sullivan
