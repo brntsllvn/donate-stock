@@ -4,7 +4,7 @@ title:  "When to Donate Stock"
 date:   2019-02-11
 author: Brent Sullivan
 author-page: brent-sullivan
-read-time: 4
+read-time: 5
 ---
 
 When donating stock, you avoid paying capital gains tax.
@@ -41,6 +41,8 @@ My wife and I [dollar-cost-average](https://www.nerdwallet.com/blog/investing/do
 
 Conclusion
 ---
-Donating stock, despite the complications above, is worth it. Spend your time following up with HR to check corporate blackout windows rather than timing the market. 
+Donating stock, despite the complications above, is worth it. Spend your time following up with HR to check corporate blackout windows. Forget about timing the market.
+
+{% include img.html path="/img/no-mkt-timing.png" %}
 
 
