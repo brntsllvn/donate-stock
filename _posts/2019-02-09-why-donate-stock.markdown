@@ -17,7 +17,7 @@ Donating stock results in a bigger donation and a bigger deduction versus sellin
 
 Below is a comparison of donating stock versus selling stock, then donating the cash.
 
-{% include slides.html id="https://docs.google.com/presentation/d/e/2PACX-1vT-TCm2-jf_szLf1ktBicsS7lv5_KS23_c8iiyzijC31Sb238-tj_ScGzIXWoPGdtnLJqIOZR3MJUpl/embed?start=true&loop=true&delayms=2000" %}
+{% include slides.html id="https://docs.google.com/presentation/d/e/2PACX-1vT-TCm2-jf_szLf1ktBicsS7lv5_KS23_c8iiyzijC31Sb238-tj_ScGzIXWoPGdtnLJqIOZR3MJUpl/embed?start=true&loop=true&delayms=3500" %}
 
 Notes and assumptions
 + The donor [itemizes](https://www.irs.gov/taxtopics/tc501) her taxes.
