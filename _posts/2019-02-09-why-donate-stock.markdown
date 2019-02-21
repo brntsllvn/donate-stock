@@ -1,13 +1,17 @@
 ---
 layout: post
-title:  "Why donate stock?"
+title:  "Why Donate Stock?"
 date:   2019-02-08
 author: Brent Sullivan
 author-page: brent-sullivan
 read-time: 2
 ---
 
-{% include img.html path="/img/uncle-sam.png" %}
+{% include 
+    img.html 
+    path="/img/uncle-sam-does-not-like-when-you-donate-stock.png" 
+    alt="a meme showing uncle sam upset you are choosing to donate stock: the caption reads 'if you donate stock, I will not get paid'"
+%}
 
 When donating stock, you avoid capital gains tax.
 
