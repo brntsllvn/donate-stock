@@ -5,6 +5,7 @@ date:   2019-02-11
 author: Brent Sullivan
 author-page: brent-sullivan
 read-time: 3
+excerpt: Keep in mind corporate blackout dates, processing time and the IRS filing year.
 ---
 
 When donating stock, you avoid paying capital gains tax.

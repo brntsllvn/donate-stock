@@ -5,6 +5,7 @@ date:   2019-02-13
 author: Brent Sullivan
 author-page: brent-sullivan
 read-time: 1
+excerpt: Dollar-cost-average your stock donations.
 ---
 
 In [this post]({% post_url 2019-02-13-when-to-donate-stock %}), I wrote about when to donate stock (pretty much as your company allows it) and deliberately omitted any mention of market timing. Because...well...market timing is bullshit.

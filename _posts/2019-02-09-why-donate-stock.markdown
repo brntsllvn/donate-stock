@@ -5,6 +5,7 @@ date:   2019-02-08
 author: Brent Sullivan
 author-page: brent-sullivan
 read-time: 2
+excerpt: Avoid capital gains tax. Bigger Donation. Bigger Deduction.
 ---
 
 {% include 

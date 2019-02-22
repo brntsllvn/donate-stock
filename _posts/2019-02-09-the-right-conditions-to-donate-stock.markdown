@@ -5,6 +5,7 @@ date:   2019-02-18
 author: Brent Sullivan
 author-page: brent-sullivan
 read-time: 2
+excerpt: Donate stock when the price is greater than the basis and it's been longer than a year.
 ---
 
 I wrote about [when]({% post_url 2019-02-13-when-to-donate-stock %}) you can donate stock (and [snarkily noted]({% post_url 2019-02-20-donate-stock-but-do-not-time-the-market %}) market timing should have nothing to do with it), but here I well...uh...add more conditions onto the pile.
