@@ -5,7 +5,7 @@ author: Brent Sullivan
 author-page: brent-sullivan
 read-time: 1
 date: 2019-02-16
-excerpt: You contribute more when you donate stock whether or not your take the deduction.
+excerpt: Your choice nonprofit gets the benefit whether or not you itemize.
 ---
 
 When donating stock, you [avoid capital gains tax](/2019/02/08/why-donate-stock.html), but under the new [Tax Cuts And Jobs Act](https://www.irs.gov/pub/irs-pdf/p5307.pdf) the standard deduction has "[nearly doubled ](https://www.irs.gov/newsroom/individuals)" for all filers. In that case, why bother donating stock if you don't plan on itemizing? 
