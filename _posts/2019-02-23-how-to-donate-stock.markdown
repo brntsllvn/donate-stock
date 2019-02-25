@@ -4,7 +4,7 @@ title:  "How To Donate Stock"
 date:   2019-02-23
 author: Brent Sullivan
 author-page: brent-sullivan
-read-time: 3
+read-time: 5
 excerpt: A phone, form, and fax, but worth the effort.
 ---
 
@@ -73,7 +73,7 @@ It takes me about an hour to dig up the right form, find my acquired date and ba
 
 Shameless plug: [BoonStock](https://donatestock.io) solves all these problems. Goodbye fax machine. Hello bigger donation and deduction.
 
-## Write For Help: brent@donatestock.io
+## Wait. One Last Thing. I'm Here To Help!
 
-If this whole process is overwhelming, send me an email and I will personally research your circumstances and help you with the paperwork...for free. No sales pitch. Nothing. I'm happy to help and want to understand any issues you're facing, plus I like learning about weird brokerage details (I know...I'm odd). Anyway. I'm here to help!
+If this whole process is overwhelming, send me an email and I will research your circumstances and help with the paperwork...for free. No sales pitch. Nothing. I'm happy to help and want to understand any issues you're facing. Plus, I like learning about weird brokerage details (I know...I'm odd). Anyway. I'm here to help!
 
