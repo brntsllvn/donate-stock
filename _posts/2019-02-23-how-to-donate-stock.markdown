@@ -25,7 +25,7 @@ Donating stock [makes sense mathematically]({% post_url 2019-02-09-why-donate-st
 
 - Login to your brokerage account and find the stock you want to donate (usually the stock with the biggest gains, held over a year, since they'll eliminate the biggest tax liability). **Note the acquired date and acquired price (i.e. the basis)**. <sub>Also note I am not your financial advisor and the optimal strategy for your situation might be different. Talk to them.</sub>
 
-- Go back to the broker form and enter the ticker, acquired date and acquired price. Do your best. Even if you screw up, your broker will call you to fix the problem. Note: Morgan Stanley does not have a place to enter acquired date and acquired price...that's fine...I've just attached a little spreadsheet in the past and they've processed it without trouble.
+- Go back to the broker form and enter the ticker, acquired date and acquired price. Do your best. Even if you screw up, your broker will call you to fix the problem. Note: Morgan Stanley does not have a place to enter acquired date and acquired price...that's fine...I've just attached a little spreadsheet in the past and they've processed it without trouble. Here's an example:
 
 {% include 
     img.html 
@@ -33,7 +33,7 @@ Donating stock [makes sense mathematically]({% post_url 2019-02-09-why-donate-st
     alt="a picture of the morgan stanley supplement I created to specify which shares by acquired date and basis I want to donate. The image shows a table with one line (and some headers above the one line) that reads Name of Security: Amazon.com, Inc. Ticker: AMZN, Number of Shares: 1.000, Aprox. Value: $1,700, Purchase Date: 5/15/2016, Price per Share: $703.5296."
 %}
 
-- Also on the broker form, you'll need info like your nonprofit's brokerage, account number, DTC number, etc. Here's KUOW (my local NPR station) info as an [example](https://kuow.org/gift-securities) (it's still clunky, but is nearly the best I've seen). 
+- Also on the broker form, you'll need info like your nonprofit's brokerage, account number, DTC number, etc. Here's KUOW's (my local NPR station) info as an [example](https://kuow.org/gift-securities) of what the info might look like on your choice nonprofit's website.
 
 {% include 
     img.html 
@@ -46,15 +46,17 @@ Donating stock [makes sense mathematically]({% post_url 2019-02-09-why-donate-st
 
 - Sign the form
 
+- Scan the form
+
 - Fax the form (the fax number is on the brokerage form)
 
-- Let the nonprofit know you sent the form and the number of shares and approximate donation. Or, don't do a thing and stay anonymous (asset transfers do not have personal info attached to them).
+- Let the nonprofit know you faxed the form and the number of shares and approximate donation value. Or, don't do a thing and stay anonymous (asset transfers do not have personal info attached to them).
 
 - Save the response from the nonprofit for your tax records (remember, even if you don't itemize, it [still makes sense]({% post_url 2019-02-11-donate-stock-even-if-you-do-not-itemize %}) to donate stock). If you donated anonymously and don't have a confirmation from the nonprofit, keep your broker confirmation.
 
 - Time passes...now it's time to file your taxes.
 
-- TurboTax will ask if you donated stock. Say yes. Then they'll ask for the total amount and the acquired date and the acquired price. 
+- If you itemize and use TurboTax, TurboTax will ask if you donated stock. Say yes. Then they'll ask for the total amount and the acquired date and the acquired price. Here's an example:
 
 {% include 
     img.html 
@@ -65,11 +67,13 @@ Donating stock [makes sense mathematically]({% post_url 2019-02-09-why-donate-st
 
 - That's it!
 
-
-
-
 ## Conclusion
 
-It takes me about an hour to dig up the right form, find my acquired date and basis, fill in the form, and double-check it is correct. Some people find this "extremely easy" <sup>[lawyers](https://www.nolo.com/legal-encyclopedia/donating-stock-charity.html)</sup>, and others, who use their phone for everything, find it tedious or impossible. Then you have to keep track of the donation (and acquired date and basis!) until it's time to file your taxes (or use something like [Its Deductible](https://itsdeductibleonline.intuit.com/)). 
+It takes me about an hour to dig up the right form, find my acquired date and basis, fill in the form, then go through the hassle of printing, signing, scanning, and faxing. Some people find this "extremely easy" <sup>[lawyers](https://www.nolo.com/legal-encyclopedia/donating-stock-charity.html)</sup>, and others, who use their phone for everything, find it tedious or impossible. After you've processed the donation, you still have to keep track of it (including the acquired date and basis) until it's time to itemize your taxes (or use something like [Its Deductible](https://itsdeductibleonline.intuit.com/)). 
 
 Shameless plug: [BoonStock](https://donatestock.io) solves all these problems. Goodbye fax machine. Hello bigger donation and deduction.
+
+## Write For Help: brent@donatestock.io
+
+If this whole process is overwhelming, send me an email and I will personally research your circumstances and help you with the paperwork...for free. No sales pitch. Nothing. I'm happy to help and want to understand any issues you're facing, plus I like learning about weird brokerage details (I know...I'm odd). Anyway. I'm here to help!
+
