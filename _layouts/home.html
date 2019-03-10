@@ -16,7 +16,10 @@ layout: default
             {{ post.title | escape }}
           </a>
           • {{ post.date | date: "%b %-d, %Y" }}
-          • {{ post.read-time }} min read
+          {%- if post.updated -%}
+          &nbsp;• updated {{ post.updated | date: "%b %-d, %Y" }}
+          {%- endif -%}
+          &nbsp;• {{ post.read-time }} min read
           <div style="font-size: 14px;">{{ post.excerpt }}</div>
         </p>
       </li>

@@ -9,6 +9,11 @@ layout: default
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {{ page.date | date: "%b %-d, %Y" }}
       </time>
+      {%- if page.updated -%}
+        • <time class="dt-published" datetime="{{ page.updated | date_to_xmlschema }}" itemprop="datePublished">
+             updated {{ page.updated | date: "%b %-d, %Y" }}
+          </time>
+      {%- endif -%}
       • <span itemprop="author" itemscope itemtype="http://schema.org/Person">
           <span class="p-author h-card" itemprop="name">
             <a href="/authors/{{ page.author-page }}">{{ page.author }}</a>
@@ -24,6 +29,12 @@ layout: default
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
+  </div>
+
+  <div class="site-footer-credits">
+    <p>
+      Disclosure: This blog is not investment advice or tax advice. Nothing in this blog should be considered an offer, or recommendation, to buy or sell any security.
+    </p>
   </div>
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
