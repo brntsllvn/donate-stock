@@ -1,79 +1,33 @@
 ---
 layout: post
-title:  "How To Donate Stock"
-date:   2019-02-23
+title:  "What Is A Donor-Advised Fund?"
+date:   2019-03-10
 author: Brent Sullivan
 author-page: brent-sullivan
-read-time: 5
-excerpt: A phone, form, and fax, but worth the effort.
+read-time: 2
+excerpt: A nonprofit that donates to other nonprofits.
 ---
 
-Donating stock [makes sense mathematically]({% post_url 2019-02-09-why-donate-stock %}), but the mechanics are annoying. Below are the details.
+A donor-advised fund is a nonprofit that donates to other nonprofits using your advice.
 
-{% include 
-    img.html 
-    path="/img/old-ben-donates-stock.png" 
-    alt="a meme showing ben kenobi reflecting, it reads: fax it to our office, now that's a term I've not heard in a long time. And it's true, using fax machines is dumb. But that's what I'm here for. To. Solve. This. Problem."
-%}
+{% include img.html 
+    path="/img/donate-stock-with-not-to-a-nonprofit.png" 
+    alt="a meme showing an utterly confused man looking at a butterfly and wondering if 'this is a nonprofit?' the joke is that donor-advised funds are confusing if not a little suspicious." %}
 
-## Step by Step 
+The idea is that you donate stock to a donor-advised fund and they immediately give you a tax receipt. Next, you tell the donor-advised fund _where_ to send your donation. They already sold the stock you donated, so now they're ready to send the cash (mostly) wherever you like. 
 
-- Call your nonprofit and make sure they accept stock donations (some do not have a brokerage account).
+What's the point? Well... the donor-advised fund will invest "your" (it's not yours anymore) money until you're ready to distribute it. They charge a fee (usually a little elevated <sup>my opinion</sup>) for pretty basic investment management. It's also nice that all your investment stuff lives in a single location. But you pay for these conveniences.
 
+{% include slides.html id="https://docs.google.com/presentation/d/e/2PACX-1vRMoyDtRCWDM2coH0H7eV4J47ecO8tGdLJEln6QUK9JDQ3uqegkYENsjHVIsfTq8UbbBqs9KBWEi129/embed?start=true&loop=true&delayms=3000" %}
 
-- Find your broker's asset transfer form. Here are [Charles Schwab's](https://client.schwab.com/secure/file/P-2014616/APP39630-fill.pdf), and [Morgan Stanley's](https://www.stockplanconnect.com/forms/5738-SPS.pdf).
+The big donor-advised funds are...
++ [Vanguard Charitable](https://www.vanguardcharitable.org/), minimum donation: $25,000, annual fee: 0.60% <sup>[actually more](https://www.vanguardcharitable.org/individuals/fees_and_expenses)</sup>
++ [Fidelity Charitable](https://www.fidelitycharitable.org/), minimum donation: $5,000, annual fee: 0.60% <sup>[actually more](https://www.fidelitycharitable.org/giving-account/giving-account-details.shtml)</sup>
++ [Schwab Charitable](https://www.schwabcharitable.org/public/charitable/home), minimum donation: $5,000, annual fee: 0.60% <sup>[sometimes more](https://www.schwabcharitable.org/public/charitable/features/fees_and_minimums)</sup>
 
-- Login to your brokerage account and find the stock you want to donate (usually the stock with the biggest gains, held over a year, since they'll eliminate the biggest tax liability). **Note the acquired date and acquired price (i.e. the basis)**. <sub>Also note I am not your financial advisor and the optimal strategy for your situation might be different. Talk to them.</sub>
+Other big ones include...
++ [Silicon Valley Community Foundation](https://www.siliconvalleycf.org/donor-advised-funds), minimum donation: $5,000, annual fee: 1.00%
++ [Seattle Foundation](https://www.seattlefoundation.org/), minimum donation: $250,000, annual fee: 1.00%
++ [Network For Good](https://www.networkforgood.org/donate/). No minimum, and a different model altogether, but still checks the "donor-advised fund" box on its required annual filing (yes, this is a real thing). Processes credit card donations for 3%-5%.
 
-- Go back to the broker form and enter the ticker, acquired date and acquired price. Do your best. Even if you screw up, your broker will call you to fix the problem. Note: Morgan Stanley does not have a place to enter acquired date and acquired price...that's fine...I've just attached a little spreadsheet in the past and they've processed it without trouble. Here's an example:
-
-{% include 
-    img.html 
-    path="/img/morgan-stanley-donate-stock-supplement.png" 
-    alt="a picture of the morgan stanley supplement I created to specify which shares by acquired date and basis I want to donate. The image shows a table with one line (and some headers above the one line) that reads Name of Security: Amazon.com, Inc. Ticker: AMZN, Number of Shares: 1.000, Aprox. Value: $1,700, Purchase Date: 5/15/2016, Price per Share: $703.5296."
-%}
-
-- Also on the broker form, you'll need info like your nonprofit's brokerage, account number, DTC number, etc. Here's KUOW's (my local NPR station) info as an [example](https://kuow.org/gift-securities) of what the info might look like on your choice nonprofit's website.
-
-{% include 
-    img.html 
-    path="/img/kuow-donate-stock-info.png" 
-    alt="this image shows other boring info you need to put on your brokerage form, including DTC number, the nonprofit's brokerage account details, and the account name. That's pretty much all you need. Your broker (not the nonprofits) will help you if you get stuck. They don't like losing assets, but are obligated to help and are friendly on the phone."
-%}
-
-
-- Print the form
-
-- Sign the form
-
-- Scan the form
-
-- Fax the form (the fax number is on the brokerage form)
-
-- Let the nonprofit know you faxed the form and the number of shares and approximate donation value. Or, don't do a thing and stay anonymous (asset transfers do not have personal info attached to them).
-
-- Save the response from the nonprofit for your tax records (remember, even if you don't itemize, it [still makes sense]({% post_url 2019-02-11-donate-stock-even-if-you-do-not-itemize %}) to donate stock). If you donated anonymously and don't have a confirmation from the nonprofit, keep your broker confirmation.
-
-- Time passes...now it's time to file your taxes.
-
-- If you itemize and use TurboTax, TurboTax will ask if you donated stock. Say yes. Then they'll ask for the total amount and the acquired date and the acquired price. Here's an example:
-
-{% include 
-    img.html 
-    path="/img/turbotax-donate-stock.png" 
-    alt="a picture of the turbotax workflow. the image shows a simple web form where i entered the data for a single share of stock i donated in later 2017."
-%}
-<sub>Note: this is a terrible example of a stock to donate. Why? 1) it has a 1 penny **loss** and 2) I had held it for less than a year. I was testing my automated widget at the time and just wanted to donate a share to prove I could automate it end-to-end. I did. Here's a reminder on the [right conditions]({% post_url 2019-02-09-the-right-conditions-to-donate-stock %}) to donate stock.</sub>
-
-- That's it!
-
-## Conclusion
-
-It takes me about an hour to dig up the right form, find my acquired date and basis, fill in the form, then go through the hassle of printing, signing, scanning, and faxing. Some people find this "extremely easy" <sup>[lawyers](https://www.nolo.com/legal-encyclopedia/donating-stock-charity.html)</sup>, and others, who use their phone for everything, find it tedious or impossible. After you've processed the donation, you still have to keep track of it (including the acquired date and basis) until it's time to itemize your taxes (or use something like [Its Deductible](https://itsdeductibleonline.intuit.com/)). 
-
-Shameless plug: [BoonStock](https://donatestock.io) solves all these problems. Goodbye fax machine. Hello bigger donation and deduction.
-
-## Wait. One Last Thing. I'm Here To Help!
-
-If this whole process is overwhelming, send me an email and I will research your circumstances and help with the paperwork...for free. No sales pitch. Nothing. I'm happy to help and want to understand any issues you're facing. Plus, I like learning about weird brokerage details (I know...I'm odd). Anyway. I'm here to help!
-
+Donor-advised funds provide some value-add at a cost. My wife and I use Schwab Charitable for a very-specific reason that I'll write about another time. Between the slightly-elevated fees and another a [weird donor tendency](https://www.nytimes.com/2018/08/03/business/donor-advised-funds-tech-tax.html), I have mixed feelings.
