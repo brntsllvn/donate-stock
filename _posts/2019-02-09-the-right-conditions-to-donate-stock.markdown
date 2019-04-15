@@ -27,6 +27,4 @@ You can find the stock's basis on your brokerage website. Note broker-specific t
 + Charles Schwab uses "Award Price" and "Award Date"
 + "Basis" comes straight from the [IRS](https://www.irs.gov/pub/irs-pdf/p526.pdf)
 
-<sub>Note that **acquisition date** is not the same as **vesting date**. Your company will usually "award" shares, say, when you join, and that's the date the IRS cares about. When the shares actually vest is not relevant for stock donations (except that you cannot donate unvested shares...lolz, your broker will stop you).</sub>
-
 
