@@ -30,4 +30,4 @@ Notes and assumptions
 + No state or local taxes factored in.
 + The donor has not bumped into the [AGI deduction limits](https://www.irs.gov/charities-non-profits/charitable-organizations/charitable-contribution-deductions).
 + Morgan Stanley Stock Plan trade fee is $14.95 (which is one of the worst I've ever seen...).
-+ Calculations are mine. Send corrections, thoughts, etc. to <brent@donatestock.io>.
++ Calculations are mine. Send corrections, thoughts, etc. to <brntsllvn@gmail.com>.
